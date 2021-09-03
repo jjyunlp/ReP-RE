@@ -1,4 +1,6 @@
 # ReP-RE
+[In master branch]
+
 Code and data for Improving Relation Extraction with Relational Paraphrase Sentences
 
 Updated in master branch.
